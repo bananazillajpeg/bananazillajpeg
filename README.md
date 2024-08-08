@@ -1,6 +1,6 @@
 ### Hello there 
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently looking for my first Dev job
 - 📫 How to reach me: analumelo.99@outlook.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm left-handed
